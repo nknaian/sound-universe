@@ -1,3 +1,10 @@
+# Rust gitignore
+debug/
+target/
+Cargo.lock
+**/*.rs.bk
+*.pdb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
